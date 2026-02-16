@@ -68,9 +68,9 @@ c.close()
 ```
 ## OUPUT - ARP
 server.py
-[text](server.py)
+![alt text](<2c server.png>)
 client.py
-[text](client.py)
+![alt text](<2c client.png>)
 ## PROGRAM - RARP
 server.py
 ```
